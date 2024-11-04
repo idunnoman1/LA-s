@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head lang="en">
+        <title>Edgar Allan Poe</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="styles.css">
+        <link rel="icon" type="image" href="favicon.png"> <!--dont forget to give credit in footer--> 
+    </head>
+
+    <body>
+
+
+
+        
+        <main>
+            <div id="img-div">
+                <img id="image" src="https://th-thumbnailer.cdn-si-edu.com/BgwxEbISvCGjFf8oZanaDGry_YU=/1000x750/filters:no_upscale():focal(1096x852:1097x853)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/c0/b4/c0b41ae2-b449-4157-a874-34f78c0279ee/poe-portrait.jpg" alt="picture of Edgar Allan Poe"></img>
+                
+            </div>
+
+            <caption><span  id="caption0">Edgar Allan Poe portrait</span></caption>
+
+            <div class="text-div">
+                <ul>
+                    <li>Edgar Allan Poe was born in January 19, 1809.</li>
+                    <li>His first story <a href="https://bit.ly/4eeSBpw">"Metzengerstein" </a> was released on January 14 1832.</li>
+                    <li>Edgar Allan Poe's most famous story is <a href="https://bit.ly/4e9xIfv">"The Tell-Tale Heart"</a> and it was released in January 1843.</li>
+                </ul>
+
+                <h3><a href="stories.html">List of all of Edgar Allan Poe's stories</a></h3>
+        </main>
+
+        <hr id="footer-hr">
+        <footer>
+            <div>
+                <p>Credits</p>
+                <p>Favicon Credits: Marko2311 on <a href="https://pngtree.com/freepng/blue-eye-pupil_5326450.html" target="_blank" id="footer">pngtree</a></p>
+
+                <h1>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dicta nam consectetur molestias exercitationem repudiandae recusandae tempore eos adipisci quas fugiat. Suscipit autem ratione maiores accusantium officiis inventore voluptatum porro nam?fugiat. Suscipit autem ratione maiores accusantium officiis inventore voluptatum porro nam?fugiat. Suscipit autem ratione maiores accusantium officiis inventore voluptatum porro nam?fugiat. Suscipit autem ratione maiores accusantium officiis inventore voluptatum porro nam?fugiat. Suscipit autem ratione maiores accusantium officiis inventore voluptatum porro nam?fugiat. Suscipit autem ratione maiores accusantium officiis inventore voluptatum porro nam?fugiat. Suscipit autem ratione maiores accusantium officiis inventore voluptatum porro nam?fugiat. Suscipit autem ratione maiores accusantium officiis inventore voluptatum porro nam?fugiat. Suscipit autem ratione maiores accusantium officiis inventore voluptatum porro nam?fugiat. Suscipit autem ratione maiores accusantium officiis inventore voluptatum porro nam?fugiat. Suscipit autem ratione maiores accusantium officiis inventore voluptatum porro nam?fugiat. Suscipit autem ratione maiores accusantium officiis inventore voluptatum porro nam?fugiat. Suscipit autem ratione maiores accusantium officiis inventore voluptatum porro nam?fugiat. Suscipit autem ratione maiores accusantium officiis inventore voluptatum porro nam?fugiat. Suscipit autem ratione maiores accusantium officiis inventore voluptatum porro nam?fugiat. Suscipit autem ratione maiores accusantium officiis inventore voluptatum porro nam?fugiat. Suscipit autem ratione maiores accusantium officiis inventore voluptatum porro nam?fugiat. Suscipit autem ratione maiores accusantium officiis inventore voluptatum porro nam?fugiat. Suscipit autem ratione maiores accusantium officiis inventore voluptatum porro nam?fugiat. Suscipit autem ratione maiores accusantium officiis inventore voluptatum porro nam?fugiat. Suscipit autem ratione maiores accusantium officiis inventore voluptatum porro nam?fugiat. Suscipit autem ratione maiores accusantium officiis inventore voluptatum porro nam?fugiat. Suscipit autem ratione maiores accusantium officiis inventore voluptatum porro nam?fugiat. Suscipit autem ratione maiores accusantium officiis inventore voluptatum porro nam?fugiat. Suscipit autem ratione maiores accusantium officiis inventore voluptatum porro nam?</h1>
+            </div>
+        </footer>
+    </body>
+</html>
